@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Claudio Giroto</h1>
-<h3 align="center">um apaixonado por TI há 30 anos.</h3>
+<h1 align="center">Seja bem vindo(a) 👋, eu sou Claudio Giroto</h1>
+<h4 align="left">Abaixo você vai conhecer um pouco sobre mim:</h4>
 
 - 🔭 Atualmente estou desenvolvendo meu CV [devweekgit.github.io](https://github.com/ClaudioGiroto/devweekgit.github.io)
 
@@ -9,7 +9,7 @@
 
 - 📫 Meu contato é **claudio.giroto@gmail.com**
 
-- ⚡ Algo sobre mim *sou muito curioso, como um amante de TI não deixaria de estar aberto a novos aprendizados e experiências. Adoro aprender coisas novas e novos desafios. Encaro como um jogo, que vou passando de fase**
+- ⚡ Algo sobre mim: *sou muito curioso, como um amante de TI não deixaria de estar aberto a novos aprendizados e experiências. Adoro aprender coisas novas e novos desafios. Encaro como um jogo, que vou passando de fase*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
