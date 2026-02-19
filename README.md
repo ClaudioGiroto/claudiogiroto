@@ -7,7 +7,7 @@
 - 📫 **claudio.giroto@gmail.com**
 - 📞 **+55-79-9 9915-6789**
 
-- ⚡ Algo sobre mim: Desempenho minhas atividades junto ao Banco do Estado de Sergipe - BANESE como Gerente de negócios. Sou muito curioso, como um amante de TI não deixaria de estar aberto a novos aprendizados e experiências. Adoro aprender coisas novas e novos desafios. Encaro como um jogo, é como se a cada desafio eu fosse passando de fase*.
+- ⚡ Algo sobre mim: Desempenho minhas atividades junto ao Banco do Estado de Sergipe - BANESE como Gerente de Negócios. Sou muito curioso, como um amante de TI não deixaria de estar aberto a novos aprendizados e experiências. Adoro aprender coisas novas e novos desafios. Encaro como um jogo, é como se a cada desafio eu fosse passando de fase*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
