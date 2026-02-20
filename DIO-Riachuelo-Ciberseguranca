@@ -1,0 +1,38 @@
+🤖 IA Fundamentals: Do Machine Learning aos Agentes Autônomos
+
+Este repositório apresenta um vídeo demonstrativo e materiais de apoio desenvolvidos durante a etapa de Inteligência Artificial do Bootcamp da DIO: Riachuelo - Cibersegurança. O objetivo é explorar as tecnologias que estão moldando o futuro da computação
+e da segurança digital.
+
+📚 Conteúdos Explorados
+
+1. Machine Learning (ML)
+O aprendizado de máquina é um subconjunto da inteligência artificial que permite que sistemas aprendam e melhorem de forma autônoma a partir de grandes quantidades de dados, utilizando redes neurais e aprendizado profundo sem programação explícita. Através
+de funções de perda e técnicas de otimização, o modelo "aprende" a prever respostas corretas com base em padrões estatísticos.
+
+2. Large Language Models (LLM)
+Os LLMs são modelos de deep learning treinados em escalas imensas de dados, capazes de entender e gerar linguagem natural. Diferente de sistemas tradicionais baseados em palavras-chave, os LLMs capturam contexto, nuances e raciocínios mais profundos, permitindo
+uma comunicação natural entre humanos e máquinas.
+
+3. IA Generativa
+Refere-se ao uso de inteligência artificial para a criação de novos conteúdos, como textos, imagens, áudios e vídeos. Ela utiliza modelos de fundação para aprender padrões em dados criados por humanos e gerar novos materiais originais a partir desse conhecimento.
+
+4. Agentes de IA
+São sistemas de software que agem de forma autônoma para alcançar objetivos em nome dos usuários. Eles são compostos por:
+• Persona: Define o papel e o estilo de comunicação.
+• Memória: Armazena interações de curto e longo prazo para manter o contexto.
+• Ferramentas: Recursos externos que permitem ao agente interagir com o mundo digital (APIs, código, etc.).
+
+5. Engenharia de Prompt
+A estruturação correta de um prompt é essencial para obter resultados precisos. Os componentes principais incluem:
+• Contexto: Define o cenário e o papel da IA.
+• Instruções: Especificam a tarefa a ser realizada.
+• Exemplos (Few-shot): Demonstram o comportamento esperado.
+• Restrições: Delimitam o escopo da resposta.
+
+6. NotebookLM
+Utilizado como assistente de pesquisa neste projeto, o NotebookLM é um caderno inteligente do Google que analisa fontes específicas (PDFs, sites, vídeos) para gerar resumos, responder perguntas com citações diretas e até criar podcasts realistas.
+
+
+🚀 Conclusão e Impacto
+O conhecimento adquirido neste bootcamp foi um verdadeiro divisor de águas, expandindo drasticamente a usabilidade das IAs em fluxos de trabalho complexos. A utilização do NotebookLM durante o processo foi fundamental, pois a ferramenta facilita imensamente
+a síntese de informações e a organização dos estudos, tornando o aprendizado mais ágil e fundamentado. 
